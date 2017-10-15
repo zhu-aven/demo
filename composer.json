@@ -1,0 +1,14 @@
+{
+    "name": "aven/demo",
+    "description": "a test with composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhu-aven",
+            "email": "304770598@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
